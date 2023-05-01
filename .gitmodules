@@ -1,0 +1,3 @@
+[submodule "audio-online-frontend"]
+    path = audio-online
+    url = https://github.com/stable-release/audio-online-frontend
